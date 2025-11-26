@@ -102,6 +102,7 @@ add address=192.168.1.100 mac-address=F8:BC:12:73:E6:02 comment="Proxmox Virtual
 add address=192.168.1.103 mac-address=BC:24:11:83:E8:9A comment="Beszel Monitor Server (beszel)" server=dhcp_hum
 add address=192.168.1.116 mac-address=BC:24:11:30:8A:FF comment="Technitiumdns DNS Server (techni)" server=dhcp_hum
 add address=192.168.1.120 mac-address=BC:24:11:AF:C7:D4 comment="RustDesk Server (rustde)" server=dhcp_hum
+add address=192.168.1.126 mac-address=BC:24:11:B6:48:0B comment="Vikuna Server" server=dhcp_hum
 add address=192.168.1.128 mac-address=BC:24:11:D6:AC:25 comment="BentoPDF Server" server=dhcp_hum
 add address=192.168.1.249 mac-address=E0:28:6D:96:AA:28 comment="Fritz Box AP (fritzb)" server=dhcp_hum
 # --- Routing ---
